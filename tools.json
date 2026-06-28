@@ -493,6 +493,29 @@
       "status": "live"
     },
     {
+      "id": "jsonld-schema-generator",
+      "name": "JSON-LD / Schema.org Generator",
+      "shortDescription": "Generate Schema.org JSON-LD structured data with live preview, copy, and download support.",
+      "longDescription": "## JSON-LD / Schema.org Generator\n\nGenerate valid Schema.org JSON-LD structured data for websites using an intuitive offline interface. Create structured data for Organization, Person, Article, Product, Event, FAQ Page, and Breadcrumb List schemas with real-time JSON preview.\n\n### Features\n\n- Generate JSON-LD structured data\n- Supports Organization, Person, Article, Product, Event, FAQ Page, and Breadcrumb List schemas\n- Dynamic form fields based on selected schema type\n- Real-time JSON-LD preview\n- One-click copy to clipboard\n- Download generated JSON as a `.json` file\n- Reset form\n- Responsive and mobile-friendly design\n- Works completely offline with no external dependencies",
+      "category": "web-seo",
+      "tags": [
+        "generator",
+        "json",
+        "jsonld",
+        "schema",
+        "schema.org",
+        "seo",
+        "structured-data"
+      ],
+      "techStack": [
+        "CSS3",
+        "HTML5",
+        "Vanilla JS"
+      ],
+      "difficulty": "Medium",
+      "status": "live"
+    },
+    {
       "id": "jwt-decoder",
       "name": "JWT Decoder",
       "shortDescription": "Decode and inspect JSON Web Tokens — header, payload, claims, and expiry — entirely in your browser.",
